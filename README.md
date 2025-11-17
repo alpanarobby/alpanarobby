@@ -8,9 +8,9 @@
 <br/> <br/> 
 <br/> <br/> 
 
-- 🔭 I’m currently **a 2nd year student at SRM University**
+- 🔭 I’m currently **a 3rd year student at SRM University**
 
-- 🌱 I’m interested in **Machine Learning**
+- 🌱 I’m interested in **Machine Learning and Data Analytics**
 
 - 🤝 Would love to **collaborate on projects**
 
